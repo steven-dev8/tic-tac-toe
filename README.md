@@ -12,4 +12,4 @@
 - Para usuarios Linux.
   - Abra alguma IDE compatível com Python ou pelo BASH
   - Localize o arquivo e execute
-     OBS: Caso execute pelo BASH, coloque o prefixo python3 (nome_do_arquivo).py
+     - OBS: Caso execute pelo BASH, coloque o prefixo python3 (nome_do_arquivo).py
