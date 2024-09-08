@@ -7,9 +7,9 @@
 
 ## PASSO A PASSO PARA JOGAR.
 - Para usuarios Windows.
-  1. Execute o arquivo jogo_da_velha.bat
+  - Execute o arquivo jogo_da_velha.bat
  
 - Para usuarios Linux.
-  1. Abra alguma IDE compatível com Python ou pelo BASH
-  2. Localize o arquivo e execute
+  - Abra alguma IDE compatível com Python ou pelo BASH
+  - Localize o arquivo e execute
      OBS: Caso execute pelo BASH, coloque o prefixo python3 (nome_do_arquivo).py
