@@ -1,10 +1,10 @@
 # jogo_da_velha
-Meu primeiro projeto em python, um jogo da velha.
+#Meu primeiro projeto em python, um jogo da velha.
 
-REQUISITOS:
+##REQUISITOS:
 - Python3 instalado
 
-PASSO A PASSO PARA JOGAR.
+##PASSO A PASSO PARA JOGAR.
 - Para usuarios Windows.
   1. Execute o arquivo jogo_da_velha.bat
  
