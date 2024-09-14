@@ -12,4 +12,7 @@
 - Para usuarios Linux.
   - Abra alguma IDE compatível com Python ou pelo BASH
   - Localize o arquivo e execute
-     - OBS: Caso execute pelo BASH, coloque o prefixo python3 e depois (nome-do-arquivo).py 
+     - OBS: Caso execute pelo BASH, digite o seguinte comando
+    ```bash
+    python3 jogo_da_velha.py
+    ```
