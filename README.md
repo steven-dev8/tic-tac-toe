@@ -1,6 +1,6 @@
 # jogo_da_velha
 
-## Meu primeiro projeto em python, um jogo da velha.
+<p style="font-size: 15px">Meu primeiro projeto em Python, um jogo da velha.</p>
 
 ## REQUISITOS:
 - Python3 instalado
