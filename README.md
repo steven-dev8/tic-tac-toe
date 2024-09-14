@@ -1,6 +1,6 @@
 # jogo_da_velha
 
-# Meu primeiro projeto em python, um jogo da velha.
+## Meu primeiro projeto em python, um jogo da velha.
 
 ## REQUISITOS:
 - Python3 instalado
